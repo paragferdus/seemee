@@ -1,11 +1,11 @@
 # seemee
 Voice assistant like alexa
 
---> Setup <--
-Python 3.10.0 
-pycharm
-pip install SpeechRecognition
-pip install pyttsx3
-pip install PyAudio
-pip install pywhatkit
+--> Setup <-- </br>
+Python 3.10.0 </br>
+pycharm</br>
+pip install SpeechRecognition</br>
+pip install pyttsx3</br>
+pip install PyAudio</br>
+pip install pywhatkit</br>
 pip install pyjokes
