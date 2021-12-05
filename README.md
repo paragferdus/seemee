@@ -2,8 +2,10 @@
 Voice assistant like alexa
 
 --> Setup <-- </br>
-Python 3.10.0 </br>
+Python</br>
 pycharm</br>
+</br>
+--> pip </br>
 pip install SpeechRecognition</br>
 pip install pyttsx3</br>
 pip install PyAudio</br>
